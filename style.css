@@ -2,7 +2,12 @@ h{
     color: white;
     font-style: italic;
     align-items: center;
-}
+
+    color: White;
+    font-weight: 400;
+    font-size: 3rem;
+} 
+
 p{
     color: white;
     justify-content: center;
